@@ -1,16 +1,19 @@
-## Hi there 👋
+# About me
 
-<!--
-**Kantaaa-alt/Kantaaa-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Googleスプレッドシートなどの表計算ツールを使用したデータ入力業務に従事しながら、IT関連職を目指して学習しています。
 
-Here are some ideas to get you started:
+現在は Python / HTML / CSS / JavaScript を中心に学習しており、業務上の入力作業や確認作業を補助するツール制作に関心があります。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+
+- [プロジェクト別フォーム入力補助 Lite](https://github.com/Kantaaa-alt/form-input-helper-lite)  
+  個人制作のChrome拡張機能です。プロジェクトごとの入力情報管理、現在タブへのフォーム入力補助、入力クリア、送信前チェック、操作ログ機能を実装しました。
+
+## Interests
+
+- 生成AIを活用した開発補助・業務効率化
+- AIツールを使った要件整理、コードレビュー、ドキュメント作成
+- フォーム入力や確認作業など、日常業務を補助する小さなツール制作
+- Chrome拡張機能、Webフロントエンド、JavaScript
+- ゲームにおけるUI/UX、操作性、ユーザー体験
+- ゲーム・エンタメ領域でのWeb運用、QA、サポート業務
